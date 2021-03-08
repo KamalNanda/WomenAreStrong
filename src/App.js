@@ -72,6 +72,13 @@ export default function App() {
   }
   return (
     <>
+      <div className="instructions">
+        <ol>
+          <li>First enter name of 3.4 Boys you know one by one</li>
+          <li>Then enter your name</li>
+          <li>If you didn't get expected result then try entering word "woman" <br/>or contact me</li>
+        </ol>
+      </div>
       <main>
         <h1>Happy International Women's Day 🌸</h1>
         <form name="f1" onsubmit={formSubmit}>
@@ -93,13 +100,6 @@ export default function App() {
           Know You Are"
         </p>
       </main>
-      <div className="instructions">
-        <ol>
-          <li>First enter name of 3.4 Boys you know one by one</li>
-          <li>Then enter your name</li>
-          <li>If you didn't get expected result then try entering word "woman" <br/>or contact me</li>
-        </ol>
-      </div>
       <footer>
         Made with ❤️ and Respect 🌸 from{" "}
         <a href="https://kamalnanda.github.io" target="_blank">
