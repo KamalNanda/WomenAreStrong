@@ -16,6 +16,7 @@ export default function App() {
       "neha",
       "mansi",
       "karishma",
+      "jyoti",
       "anshika",
       "sidak",
       "himanshi",
