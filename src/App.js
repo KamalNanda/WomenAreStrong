@@ -25,6 +25,7 @@ export default function App() {
       "akshita",
       "megha",
       "mehak",
+      "tanya",
       "priya",
       "navya",
       "kushi",
