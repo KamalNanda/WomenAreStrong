@@ -73,6 +73,7 @@ export default function App() {
   return (
     <>
       <div className="instructions">
+        <h3>Instructions</h3>
         <ol>
           <li>First enter name of 3,4 Boys you know one by one</li>
           <li>Then enter your name</li>
