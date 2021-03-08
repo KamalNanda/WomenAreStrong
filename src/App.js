@@ -30,6 +30,7 @@ export default function App() {
       "khushi",
       "diya",
       "sapna",
+      "woman",
       "manasvi",
       "rishika",
       "muskan",
@@ -96,6 +97,7 @@ export default function App() {
         <ol>
           <li>First enter name of 3.4 Boys you know one by one</li>
           <li>Then enter your name</li>
+          <li>If you didn't get expected result then try entering word "woman" <br/>or contact me</li>
         </ol>
       </div>
       <footer>
