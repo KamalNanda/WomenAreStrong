@@ -75,8 +75,8 @@ export default function App() {
       <div className="instructions">
         <h3>Instructions</h3>
         <ol>
-          <li>First enter name of 3,4 Boys you know one by one</li>
-          <li>Then enter your name</li>
+          <li>Enter name of a Male in the password field</li>
+          <li>Then enter your name in the password field</li>
           <li>If you didn't get expected result then try entering word "woman" <br/>or contact me</li>
         </ol>
       </div>
