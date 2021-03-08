@@ -87,6 +87,10 @@ export default function App() {
             </p>
           </div>
         </form>
+        <p style={{ textAlign: "center", color:"crimson" }}>
+          "Don't Believe you are <br />
+          Know You Are"
+        </p>
       </main>
       <div className="instructions">
         <ol>
