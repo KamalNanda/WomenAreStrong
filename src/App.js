@@ -31,6 +31,7 @@ export default function App() {
       "diya",
       "sapna",
       "woman",
+      "Aashi",
       "manasvi",
       "rishika",
       "muskan",
